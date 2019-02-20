@@ -21,7 +21,7 @@ div.a {
 /* Write your solution here */
 @media (max-width: 600px) {
   #bear {
-     top: 200px;
+     top: 10px;
      left:0px;
   }
 }
