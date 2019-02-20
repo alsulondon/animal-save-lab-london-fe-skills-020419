@@ -19,7 +19,7 @@ div.a {
   transform: rotate(20deg);
 }
 /* Write your solution here */
-@media (max-width: 600px) {
+@media (min-width: 600px) {
   #bear {
      top: 10px;
      left:0px;
