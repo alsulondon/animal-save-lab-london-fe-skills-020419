@@ -22,5 +22,6 @@ div.a {
 @media (max-width: 600px) {
   #bear {
      top: 200px;
+     left:400;
   }
 }
